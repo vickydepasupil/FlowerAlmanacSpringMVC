@@ -22,6 +22,6 @@ Implemented using Spring MVC, Apache Tomcat and Dropbox Core API.
 
 <div>
 <h3>View Page</h3>
-<p>On clicking the View Page button, a simple tabular form of the information stored on Dropbox will be shown.</p>
+<p>On clicking the View Photos button, a simple tabular form of the information stored on Dropbox will be shown.</p>
 <img src="https://user-images.githubusercontent.com/29102307/28385211-e23dcb24-6cf9-11e7-9273-a753538d266f.png" width="400">
 </div>
